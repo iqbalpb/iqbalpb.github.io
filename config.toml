@@ -13,12 +13,12 @@ enableEmoji = true
 
 [params]
 author = "Muhammed Iqbal P B"
-description = "Iqbal's personal website"
+description = "Iqbal's Personal Website"
 keywords = "blog,developer,personal"
-info = ["DevOps @ Emvigo", "WordPress Freelancer","Campus Community Manager @ TinkerHub"]
+info = ["Cloud Architect at CodeAce", "AWS Community Builder","AWS & CNCF Kochi Lead Organiseer"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "More Details @ iqbalpb.com"
+footerContent = "connect me https://www.linkedin.com/in/iqbalpb"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -103,13 +103,13 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/iqbalpb01/"
+url = "https://github.com/iqbalpb/"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 3
-url = "https://twitter.com/iqbalpb01/"
+url = "https://twitter.com/heyiqbalpb"
 
 [[params.social]]
 name = "LinkedIn"
@@ -132,6 +132,6 @@ url = "posts/"
 
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact"
 weight = 5
 url = "contact/"
