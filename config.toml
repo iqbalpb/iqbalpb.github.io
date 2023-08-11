@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 author = "Muhammed Iqbal P B"
-description = "Iqbal's Personal Website"
+description = "Iqbal P B's Personal Website"
 keywords = "blog,developer,personal"
 info = ["Cloud Architect at CodeAce", "AWS Community Builder","AWS & CNCF Kochi Lead Organiseer"]
 avatarURL = "images/avatar.jpg"
